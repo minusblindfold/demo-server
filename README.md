@@ -6,14 +6,14 @@ There is one domain object (User)
 
 ex.  
 {  
-  "id" : 1,  
-  "firstName" : "Joe",  
-  "lastName" : "Pace",  
-  "userName" : "jp12345"  
+    "id" : 1,  
+    "firstName" : "Joe",  
+    "lastName"  : "Pace",  
+    "userName"  : "jp12345"  
 }  
 
 
-#REST Service as follows
+#REST Functions
 
 GET       /user         ** Returns all users **  
 GET       /user/{id}    ** Returns one user by id **  
