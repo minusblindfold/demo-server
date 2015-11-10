@@ -1,0 +1,8 @@
+.DS_STORE
+.metadata/
+.recommenders
+target/
+RemoteSystemsTempFiles/
+rest/.classpath
+rest/.project
+rest/.settings/
